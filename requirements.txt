@@ -29,7 +29,6 @@ seaborn==0.12.2
 streamlit-extras==0.2.7
 streamlit-card==0.0.4
 decorator==5.1.1
-distutils
 deprecation==2.1.0
 numerize==0.12
 numpy==1.23.5
